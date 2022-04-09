@@ -93,11 +93,11 @@ impl Connection {
                     protocol: 758,
                 },
                 players: ListPingResponsePlayers {
-                    max: 88,
-                    online: 14,
+                    max: 37,
+                    online: 13,
                     sample: vec![],
                 },
-                description: ChatMessage::str("o4ko"),
+                description: ChatMessage::str("loh"),
             })
             .unwrap(),
         );
